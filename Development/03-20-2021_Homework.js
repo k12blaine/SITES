@@ -1,25 +1,24 @@
-/* 1. Pick a cat from Wikipedia's List of Fictional Felines "https://en.wikipedia.org/wiki/List_of_fictional_felines"
-      Create an object named mycat with properties that represent the information listed in each column on that Wikipedia page.
-      (for example: the character's name, origin, and author).
-*/ Crookshanks/Hermione/Hermiones pet/Jk Rowling
+/* 1. Pick your favorite movie.
+      Create an object below named myMovie with properties that represent the information (title, genre, year)
 
-
-
-
-
-/* 2. Write another line of code that adds a new property to your penguin called canRoar and set it to true or false based on the type of animal.
-     (Note: Don't modify your penguin-creation code that you wrote above! Do this step in a separate line of code.)
 */
 
-canRoar: F
 
 
 
-/* 3. Add a method to your penguin called speak() that prints "Rooaaar" or "I can't roar. I can only meow. :3" based on the can Roar property.
+
+/* 2. Write another line of code that adds a new property to your movie called netflix and set it to true or false based on if the movie can currently be found on Netflix.
+     (Note: Don't modify your movie creation code that you wrote above! Do this step in a separate line of code.)
+     *Remember, true or false are boolean data types
+*/
+
+
+
+
+/* 3. Add and define a method (function inside of a property) to your movie called playMovie() that prints "The movie is now playing on Netflix" or "The movie is unavailable on Netflix" based on the netflix property.
     (Note: Again, don't modify your previous code! Do this step by writing a new line of code.)
 */
 
-Speak(I can only meow)
 
 
 
@@ -42,3 +41,12 @@ var library = [
        readingStatus: false
    }];
 */
+
+//Define object constructor
+function Book()
+{
+
+
+}
+
+// 3function calls
